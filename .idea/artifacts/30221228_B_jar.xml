@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="李彦墨30221228-B:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/30221228_B_jar</output-path>
+    <root id="archive" name="李彦墨30221228-B.jar">
+      <element id="module-output" name="李彦墨30221228-B" />
+    </root>
+  </artifact>
+</component>
